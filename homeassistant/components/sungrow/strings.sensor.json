@@ -1,0 +1,33 @@
+{
+  "state": {
+    "sungrow__output_type": {
+      "single_phase": "Single phase",
+      "three_phase_3p3l": "3P3L",
+      "three_phase_3p4l": "3P4L"
+    },
+    "sungrow__grid_state": {
+      "on_grid": "On grid",
+      "off_grid": "Off grid"
+    },
+    "sungrow__state": {
+      "stop": "Stop",
+      "standby": "[%key:common::state::standby%]",
+      "initial_standby": "Initial standby",
+      "startup": "Startup",
+      "running": "Running",
+      "fault": "Fault",
+      "running_maintain_mode": "Running in maintain mode",
+      "running_forced_mode": "Running in forced mode",
+      "running_offgrid_mode": "Running in off-grid mode",
+      "restarting": "Restarting",
+      "running_external_ems_mode": "Running in External EMS mode",
+      "stop_key": "Key stop",
+      "stop_emergency": "Emergency stop",
+      "running_alarm": "Alarm run",
+      "running_derating": "Derating run",
+      "running_dispatch": "Dispatch run",
+      "running_fault": "Fault run",
+      "communicate_fault": "Communication fault"
+    }
+  }
+}

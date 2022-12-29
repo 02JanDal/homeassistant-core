@@ -402,6 +402,7 @@ FLOWS = {
         "stookalert",
         "subaru",
         "sun",
+        "sungrow",
         "surepetcare",
         "switchbee",
         "switchbot",

@@ -1,0 +1,10 @@
+{
+  "domain": "sungrow",
+  "name": "SunGrow",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/sungrow",
+  "requirements": ["pysungrow==1.0.0", "pymodbus==3.0.2"],
+  "codeowners": ["@02JanDal"],
+  "iot_class": "local_polling",
+  "loggers": ["pymodbus"]
+}

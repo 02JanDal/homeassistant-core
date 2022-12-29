@@ -272,6 +272,7 @@ homeassistant.components.steamist.*
 homeassistant.components.stookalert.*
 homeassistant.components.stream.*
 homeassistant.components.sun.*
+homeassistant.components.sungrow.*
 homeassistant.components.surepetcare.*
 homeassistant.components.switch.*
 homeassistant.components.switchbee.*

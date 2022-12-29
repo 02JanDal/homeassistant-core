@@ -5192,6 +5192,12 @@
       "config_flow": true,
       "iot_class": "calculated"
     },
+    "sungrow": {
+      "name": "SunGrow",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "supervisord": {
       "name": "Supervisord",
       "integration_type": "hub",

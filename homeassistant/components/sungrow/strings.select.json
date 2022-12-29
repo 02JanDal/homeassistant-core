@@ -1,0 +1,28 @@
+{
+  "state": {
+    "sungrow__charge_discharge_command": {
+      "charge": "Charge",
+      "discharge": "Discharge",
+      "stop": "Stop"
+    },
+    "sungrow__ems_mode": {
+      "self_consumption": "Self consumption",
+      "forced": "Forced",
+      "external_ems": "External EMS"
+    },
+    "sungrow__load_adjustment_mode": {
+      "timing": "Timing",
+      "on_off": "On/Off",
+      "power_optimized": "Power optimized"
+    },
+    "sungrow__load_on_off_mode": {
+      "off": "[%key:common::state::off%]",
+      "on": "[%key:common::state::on%]"
+    },
+    "sungrow__start_stop": {
+      "start": "Start",
+      "stop": "Stop",
+      "emergency_stop": "Emergency stop"
+    }
+  }
+}
